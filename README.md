@@ -29,13 +29,12 @@ This analysis was designed to answer key business questions such as:
 
 The main dashboard provides a summary of revenue, order volume, average customer rating, average order value, cuisine performance, and monthly order trends.
 
-![ChopNow Executive Dashboard](overview.png)
+![ChopNow Executive Dashboard](Overview.png)
 
 ### Cuisine Details
 
 This page provides a closer look at restaurant-level performance, including revenue, order volume, average ratings, and order distribution by city.
-
-![ChopNow Cuisine Details](cuisine-details.png)
+![ChopNow Cuisine Details](Cuisine%20Details.png)
 
 
 
