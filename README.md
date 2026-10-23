@@ -102,7 +102,30 @@ chopnow-analytics/
 └── documentation/
     └── business-insights.pdf
 ```
+## Key Business Insights
 
+### 1. Geographic Order Distribution
+Abuja recorded the highest order volume with **1,049 orders (40.3%)**, followed by Lagos with **935 orders (36.0%)**. Together, these two cities accounted for approximately **76.3% of the 2,600 total orders**.
+
+### 2. Revenue by Cuisine
+Shawarma & Grill was the leading cuisine category, generating **₦6.1 million in revenue**, representing **21.6% of total revenue**.
+
+### 3. Annual Revenue Performance
+Revenue declined from **₦11.62 million in 2024** to **₦11.10 million in 2025**, a decrease of approximately **4.5%**. Average order value also edged down from ₦10,920 to ₦10,880.
+
+### 4. Customer Ratings
+Average ratings were **4.12 in 2024** and **4.11 in 2025**. The January–June 2026 average was **4.02**. Because 2026 contains only six months of data, it should be compared with January–June in previous years before drawing firm conclusions.
+
+### 5. Monthly Order Peaks
+The highest-order months were January 2024 (**102 orders**), March 2025 (**99 orders**) and January 2026 (**95 orders**). These represent each year's peak month, not total annual orders.
+
+## Business Recommendations
+
+- **Prioritize key markets:** Investigate restaurant availability, delivery performance and customer demand in Abuja and Lagos, which together generated 76.3% of recorded orders.
+- **Learn from leading cuisine categories:** Examine the pricing, menu mix and restaurant performance behind Shawarma & Grill's revenue contribution to identify practices that could benefit other categories.
+- **Investigate revenue decline:** Review pricing, discounts, menu mix and order frequency to understand the decrease in revenue between 2024 and 2025.
+- **Monitor customer experience:** Track restaurant-level ratings and customer feedback to identify service issues and opportunities for improvement.
+- **Use comparable reporting periods:** Compare January–June 2026 against January–June 2025 for a fair assessment of changes in revenue, order volume and customer ratings.
 ---
 
 ## 👤 Author
